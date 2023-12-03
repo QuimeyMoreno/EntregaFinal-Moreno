@@ -1,0 +1,43 @@
+{"listaProductos":[
+    {"nombre":"Pancho - La Perla", "precio": 500},
+    {"nombre":"Hamburguesa - La Perla", "precio": 500},
+    {"nombre":"Salvado Chico - La Perla", "precio": 700},
+    {"nombre":"Chico - La Perla", "precio": 750},
+    {"nombre":"Grande - La Perla", "precio": 1000},
+    {"nombre":"Hamb Queso - Pazzi", "precio": 1500},
+    {"nombre":"Queso - Boggies", "precio": 600},
+    {"nombre":"Sesamo - Boggies", "precio": 600},
+    {"nombre":"Lacteado - Mr. Miga", "precio": 850},
+    {"nombre":"Salvado - Mr. Miga", "precio": 800},
+    {"nombre":"Semilla - Mr. Miga", "precio": 740},
+    {"nombre":"Pascualina - Signo", "precio": 965},
+    {"nombre":"Tapa x18 - Signo", "precio": 456},
+    {"nombre":"Tapa x500 - Signo", "precio": 852}
+    
+],
+"listaProductos2":[
+    {"nombre":"Pancho - La Perla", "precio": 1000},
+    {"nombre":"Hamburguesa - La Perla", "precio": 1000},
+    {"nombre":"Salvado Chico - La Perla", "precio": 1000},
+    {"nombre":"Chico - La Perla", "precio": 1000},
+    {"nombre":"Grande - La Perla", "precio": 11000},
+    {"nombre":"Hamb Queso - Pazzi", "precio": 11000},
+    {"nombre":"Queso - Boggies", "precio": 1000},
+    {"nombre":"Sesamo - Boggies", "precio": 1000},
+    {"nombre":"Lacteado - Mr. Miga", "precio": 1000},
+    {"nombre":"Salvado - Mr. Miga", "precio": 1000},
+    {"nombre":"Semilla - Mr. Miga", "precio": 1000}
+ 
+    
+],
+"listaProductos3":[
+    {"nombre":"Pancho - La Perla", "precio": 500},
+    {"nombre":"Hamburguesa - La Perla", "precio": 500},
+    {"nombre":"Salvado Chico - La Perla", "precio": 700},
+    {"nombre":"Chico - La Perla", "precio": 750},
+    {"nombre":"Grande - La Perla", "precio": 1000},
+    {"nombre":"Hamb Queso - Pazzi", "precio": 1500},
+    {"nombre":"Queso - Boggies", "precio": 600}
+
+]
+}
